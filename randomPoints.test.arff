@@ -1,0 +1,16 @@
+@relation randomPointsEval
+
+@attribute x real
+@attribute y real
+
+@data
+14.5,9.7
+17.2,20.5
+25.4,18.5
+22,33.1
+9.6,5.2
+26.9,30.3
+13.2,20.4
+37.8,27.1
+32.9,21
+11.4,18.3
